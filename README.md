@@ -4,6 +4,8 @@ Description:
 	There is a little perl script to monitoring on real time the Lustre file system status.
 	After thousands of Lustre crashes I developed this program to see the real cause of the overload which collapse the file system.
 
+	Tested on Lustre v2.1.x v2.4.x 
+
 Requirements:
 
 	- Perl (tested on v5.10) 
